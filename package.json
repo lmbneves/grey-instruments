@@ -1,0 +1,24 @@
+{
+  "name": "grey-instruments",
+  "version": "1.0.0",
+  "description": "Codebase for Grey Instruments website.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmbneves/grey-instruments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmbneves/grey-instruments/issues"
+  },
+  "homepage": "https://github.com/lmbneves/grey-instruments#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
